@@ -1,4 +1,4 @@
-<img src="Github.png" alt="Description of image" >
+<img src="skk.jpg" alt="Description of image" >
 
 <h1 align="center">Hello 👋, I'm Sahil Khilar</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
